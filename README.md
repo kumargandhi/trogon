@@ -1,0 +1,3 @@
+# A MEAN stack application...
+
+Still not decided what to develop here!!
